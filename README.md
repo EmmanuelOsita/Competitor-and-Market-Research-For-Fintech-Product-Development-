@@ -1,12 +1,12 @@
 ![img_8539-1](https://github.com/user-attachments/assets/0543dc1b-6d79-4276-81f9-23c9f23667a7)
 # Competitor-and-Market-Research-For-Fintech-Product-Development-
 
-## Introduction 
+## INTRODUCTION 
 
 This report outlines the process and insights derived from Competitor and Market Research for fintech Product Development. The purpose of this project is to assist a fintench startup, Pedmonie to develop a new solution aimed at simplifying digital payment acceptance. The product consolidates multiple payment models like mobile money, bank transfers, and card payment into a unified system, offering businesses a streamlined way to manage transactions, reduce complexity and improve success rates. Since the product is in its early development stage, my task as a Data Analyst was to conduct thorough market research, analyze competitors, and provide insights to support product refinement and differentiation.
 
 
-## Research Goals of the project
+## RESEARCH GOALS OF THE PROJECT 
 
 The following are the research goals of the project
 
@@ -25,7 +25,7 @@ II.) Identify the types of businesses that would find this product essential, fo
 
 4.	Additional Insights: Include any other relevant findings that may contribute to product strategy, market positioning, or feature development.
 
-## Methodology
+## METHODOLOGY
 
 The methodology of the project follows a systematic approach that involved several key steps:
 1.	Literature Review: I reviewed fintech reports, industry blogs, and business intelligence sources.
@@ -34,37 +34,38 @@ The methodology of the project follows a systematic approach that involved sever
 4.	Data transformation: I converted raw data into meaningful formats (e.g., categorizing payment models) and normalized or aggregate data for better comparison across competitors to get a transformed dataset suitable for in-depth analysis.
 5.	Data Analysis: I performed descriptive analysis to understand user needs and competitor strengths, Conducted SWOT analysis to identify opportunities and threats and Analyzed transaction trends and pain points to identify key areas for improvement. 
 
-## Data Sources
+## DATA SOURCES
 The Data was collected from reputable industry sources, including:
 
 •	Bulletin, Appinventiv, Stripe, BCG, KPMG, and other fintech research platforms.
 •	Survey responses from SMEs and freelancers on their payment processing experiences.
 •	Internal business intelligence data on financial APIs and emerging payment solutions.
 
-## Data Collection Tools 
+## DATA COLLECTION TOOLS 
 Google Forms for surveys, web scraping for competitor insights, and API documentation reviews.
 
-## Data Analysis Tools 
+## DATA ANALYSIS TOOLS
 Microsoft Excel and Power BI for data visualization and trend analysis.
 
-## Comparative Analysis 
-Benchmarking against industry leaders like Stripe, PayPal, and Flutterwave.
 
-## Analysis
+## ANALYSIS AND RESULTS 
 
-Competitor Analysis
+### Collaboration with Product Mangers
 
 I worked closely with the product management team to gain a deep understanding of the product vision, features, and intended value proposition of Pedmonie. I was able to gather the necessary information particularly the Product Requirement Development (PRD) that will enable me carry out a competitor Analysis.
 
-The competitor analysis was to identify existing fintech startups offering similar solution taking cognizance on the company name and background, Product details and features, Unique selling points (USPs), Problems they are solving and opportunities for differentiation.
+### Competitor Analysis
 
-The Competitor analyses was carried out on top ten (10) prominent fintech start up offering similar solution to Pedmonie. I carried out a comparative analysis ofthe various companys features, unique selling points (USPs), problem solved, market research, supported payment method, security compliance and payment authentication 
+I carried out a competitor analysis to identify existing fintech startups offering similar solution taking cognizance on the company name and background, Product details and features, Unique selling points (USPs), Problems they are solving and opportunities for differentiation. The comparative analysis was done on top ten (10) prominent fintech start up focusing majorly on their features, unique selling points (USPs), problem solved, market research, supported payment method, security compliance and payment authentication, pricing model and opportunities for differentiation 
 
 ![Screenshot (124)](https://github.com/user-attachments/assets/4dacaab3-4afb-482a-ad74-8fe13ce0a1ce)
-
-Also carried out a comparative analysis on their pricing model and opportunities for differentiation
-
 ![Screenshot (126)](https://github.com/user-attachments/assets/9058f7b8-af6d-4711-a5b1-895d9b65ee6f)
+
+### Target Audience Analysis: 
+
+I) Research and define the specific niche and demographic groups most likely to benefit from the solution. 
+
+II.) Identify the types of businesses that would find this product essential, focusing on their pain points and payment challenges.
 
 
 
