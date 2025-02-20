@@ -1,19 +1,26 @@
 ![img_8539-1](https://github.com/user-attachments/assets/0543dc1b-6d79-4276-81f9-23c9f23667a7)
-# Competitor-and-Market-Research-For-Fintech-Product-Development-
+# COMPETITOR AND MARKET RESEARCH FOR FINTECH PRODUCT DEVELOPMENT-(PEDMONIE)
 
 ## INTRODUCTION 
 
-This report outlines the process and insights derived from Competitor and Market Research for Fintech Product Development. The purpose of the project is to assist a fintench startup, Pedmonie to develop a new solution aimed at simplifying digital payment acceptance. The will product consolidates multiple payment models like mobile money, bank transfers, and card payment into a unified system, offering businesses a streamlined way to manage transactions, reduce complexity and improve success rates. Since the product is in its early development stage, my task as a Data Analyst was to conduct thorough market research, analyze competitors, and provide insights to support product refinement and differentiation.
+This report outlines the process and insights derived from Competitor and Market Research for Fintech Product Development. The purpose of the project is to assist a fintench startup, Pedmonie to develop a new solution aimed at simplifying digital payment acceptance. 
+
+The product is purported to consolidates multiple payment models like mobile money, bank transfers, and card payment into a unified system, offering businesses a streamlined way to manage transactions, reduce complexity and improve success rates. Since the product is in its early development stage, my task as a Data Analyst was to conduct thorough market research, analyze competitors, and provide insights to support product refinement and differentiation.
 
 ## MY ROLE
 
 1. Collaborate with Product Management team to gain a deep understanding of the product vision, features, and intended value proposition.
 
 2. Competitor Analysis: Identify existing fintech startups offering similar solutions taking cognizance of the following:
+
 a. Company name and background
+
 b. Product details and features
+
 c.	Unique selling points (USPs)
+
 d.	Problems they are solving
+
 e.	Opportunities for differentiation: How can we improve on their offerings? What additional features can make pedmonie stand out?
 
 3.	Additional Insights: Include any other relevant findings that may contribute to product strategy, market positioning, or feature development.
@@ -42,6 +49,7 @@ Product Designers
 Virtual Assistants
 
 Data Analysts
+
 Project Manager
 
 ## PROBLEM STATEMENT 
