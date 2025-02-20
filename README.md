@@ -3,22 +3,17 @@
 
 ## INTRODUCTION 
 
-This report outlines the process and insights derived from Competitor and Market Research for fintech Product Development. The purpose of this project is to assist a fintench startup, Pedmonie to develop a new solution aimed at simplifying digital payment acceptance. The product consolidates multiple payment models like mobile money, bank transfers, and card payment into a unified system, offering businesses a streamlined way to manage transactions, reduce complexity and improve success rates. Since the product is in its early development stage, my task as a Data Analyst was to conduct thorough market research, analyze competitors, and provide insights to support product refinement and differentiation.
+This report outlines the process and insights derived from Competitor and Market Research for Fintech Product Development. The purpose of the project is to assist a fintench startup, Pedmonie to develop a new solution aimed at simplifying digital payment acceptance. The will product consolidates multiple payment models like mobile money, bank transfers, and card payment into a unified system, offering businesses a streamlined way to manage transactions, reduce complexity and improve success rates. Since the product is in its early development stage, my task as a Data Analyst was to conduct thorough market research, analyze competitors, and provide insights to support product refinement and differentiation.
 
 ## MY ROLE
 
 1. Collaborate with Product Management team to gain a deep understanding of the product vision, features, and intended value proposition.
 
 2. Competitor Analysis: Identify existing fintech startups offering similar solutions taking cognizance of the following:
-
 a. Company name and background
-
 b. Product details and features
-
 c.	Unique selling points (USPs)
-
 d.	Problems they are solving
-
 e.	Opportunities for differentiation: How can we improve on their offerings? What additional features can make pedmonie stand out?
 
 3.	Additional Insights: Include any other relevant findings that may contribute to product strategy, market positioning, or feature development.
@@ -26,7 +21,7 @@ e.	Opportunities for differentiation: How can we improve on their offerings? Wha
 
 ## PRODUCT OVERVIEW 
 
-Product Name: PedMonie - moving money with ease.
+#### Product Name: PedMonie - moving money with ease.
 
 Ped: This hints at “pedestal” (something foundational or elevated) or “ped” as in “pedal,” suggesting ease of movement or speed.
 
@@ -36,12 +31,16 @@ Thus, “Pedmonie” could imply a “trusted foundation for money” or a “pl
 
 Version: MVP 1.0
 
-Stakeholders:
+#### Stakeholders:
 
 Product Manager
+
 Developers
+
 Product Designers
+
 Virtual Assistants
+
 Data Analysts
 Project Manager
 
@@ -62,7 +61,7 @@ User Story: As a new user, I want to set up my payment preferences during onboar
 User Story:  As a business owner, I want access to customer support when needed.
 
 
-### Goal of the MVP:
+### GOAL OF THE MVP:
 
 PedMonie's primary goal is to simplify digital payment acceptance by consolidating mobile money, bank transfers, and card payments into a single system. It also offers businesses a streamlined solution to manage payments, reduce complexity, and improve transaction success rates.
 
@@ -75,35 +74,35 @@ Small Businesses (SMBs) – E-commerce websites, startups, and small retailers s
 User Persona
 Name: Sarah, the Small Business Owner                        Age: 32
 Occupation: E-commerce Store Owner                           Location: Lagos, Nigeria
-Tech Savvy: Moderate                                          Income: N5,000,000/year
+Tech Savvy: Moderate                                         Income: N5,000,000/year
 
-Goals:
+#### Goals:
 
 1. Simplify the checkout process for her customers.
 2. Offer a variety of payment options (credit cards, PayPal, etc.).
 3. Keep transaction fees low to increase profit margins.
 4. Ensure secure and reliable payment processing.
 
-Challenges:
+#### Challenges:
 
 1. Struggles with integrating multiple payment methods into her website.
 2. Concerned about the security of customer data and fraud risks.
 3. Finds existing payment systems complex and expensive.
 
-Needs:
+#### Needs:
 
 1. A user-friendly payment system that’s easy to integrate.
 2. Affordable transaction fees that don’t eat into her profits.
 3. A secure solution to protect both her customers’ data and her business reputation.
 4. A seamless experience for both her and her customers.
 
-Fears:
+#### Fears:
 
 1. Losing customers due to a complicated or lengthy checkout process.
 2. Security breaches compromising sensitive data.
 3. High transaction fees that eat into her profits.
 
-Why She Would Choose This Product:
+### Why She Would Choose This Product:
 
 1. Offers multiple payment options to meet her customers' preferences.
 2. Provides low fees and secure transactions, boosting customer trust.
@@ -141,19 +140,25 @@ Microsoft Excel and Power BI for data visualization and trend analysis.
 
 ## ANALYSIS AND RESULTS 
 
-I worked closely with the product management team to gain a deep understanding of the product vision, features, and intended value proposition of Pedmonie. I was able to gather the necessary information particularly the Product Requirement Development (PRD) that will enable me carry out a competitor Analysis.
+#### Comparative Analysis 
 
-I carried out a competitor analysis to identify existing fintech startups offering similar solution to pedmonie, taking cognizance on the company name and background, Product details and features, Unique selling points (USPs), Problems they are solving and opportunities for differentiation. The analysis was done on top ten (10) prominent fintech start up focusing majorly on their features, unique selling points (USPs), problem solved, market research, supported payment method, security compliance and payment authentication, pricing model and opportunities for differentiation 
+I worked closely with the product management team to gain a deep understanding of the product vision, features, and intended value proposition of Pedmonie. 
+
+I was able to gather the necessary information particularly the Product Requirement Development (PRD) that will enable me carry out a comparatuve Analysis.
+
+I carried out a comparative analysis on top ten (10) fintech starts up offering similar solution to pedmonie, taking cognizance on their background, Product details and features, Unique selling points (USPs), Problems they are solving and opportunities for differentiation. 
+
+I also investigated and analysed their features, unique selling points (USPs), problem solved, market research, supported payment method, security compliance and payment authentication, pricing model and opportunities for differentiation 
 
 ![Screenshot (124)](https://github.com/user-attachments/assets/4dacaab3-4afb-482a-ad74-8fe13ce0a1ce)
 
+
 ![Screenshot (126)](https://github.com/user-attachments/assets/9058f7b8-af6d-4711-a5b1-895d9b65ee6f)
 
-### Suggested Features to make the Product Oustanding
+And based on the comparatve analysis, i discovered that the following features should be incorporated into pedmonie to make the product oustanding
 
-After looking at their Strengths, weaknesses, threats and opportunities for differentiation, the following features should be incorporated into Pedmonie to make the product outstanding
+#### a. Core Functionalities
 
-a. Core Functionalities
 i.	Unified Payments Dashboard: A single interface for mobile money, bank transfers, card payments, and crypto transactions.
 
 ii.	Cross-Border Transactions: Enable seamless global payments with real-time currency conversion.
@@ -164,7 +169,7 @@ iv.	Quick Transfers: Instant transfer options for P2P, business, or merchant pay
 
 v.	Payment Links & QR Codes: Generate payment links or QR codes for easy payment collection.
 
-b. Security Enhancements
+#### b. Security Enhancements
 
 i.	Multi-Factor Authentication (MFA): Offer biometric and OTP-based authentication.
 
@@ -172,7 +177,7 @@ ii.	Fraud Detection & Prevention: AI-driven fraud detection to prevent suspiciou
 
 iii.	Encryption: End-to-end encryption for all payment data.
 
-c. Convenience and Usability
+#### c. Convenience and Usability
 
 i.	Smart Splitting: Allow users to split bills or payments easily.
 
@@ -180,7 +185,7 @@ ii.	Recurring Payments: Automated payment schedules for subscriptions and loans.
 
 iii.	Offline Mode: Enable payments without internet (e.g., via SMS or NFC).
 
-d. Financial Inclusion & Accessibility
+#### d. Financial Inclusion & Accessibility
 
 i.	Microloans: Small, accessible loans with flexible terms.
 
@@ -188,7 +193,7 @@ ii.	Savings and Investment: In-app savings accounts and micro-investment options
 
 iii.	Sign Language Support: Accessibility for people with hearing impairments.
 
-e. Integration & API Capabilities
+#### e. Integration & API Capabilities
 
 i.	Merchant APIs: Allow businesses to integrate your product easily.
 
