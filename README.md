@@ -9,21 +9,16 @@ The product is purported to consolidates multiple payment models like mobile mon
 
 ## MY ROLE
 
-1. Collaborate with Product Management team to gain a deep understanding of the product vision, features, and intended value proposition.
+1.Collaborate with Product Management team to gain a deep understanding of the product vision, features, and intended value proposition.
 
-2. Competitor Analysis: Identify existing fintech startups offering similar solutions taking cognizance of the following:
+2.Competitor Analysis: Identify existing fintech startups offering similar solutions taking cognizance of the following:
+a. Company name and background
+b. Product details and features
+c.	Unique selling points (USPs)
+d.	Problems they are solving
+e.	Opportunities for differentiation: How can we improve on their offerings? What additional features can make pedmonie stand out?
 
-  a. Company name and background
-
-  b. Product details and features
-
-  c.	Unique selling points (USPs)
-
-  d.	Problems they are solving
-
-  e.	Opportunities for differentiation: How can we improve on their offerings? What additional features can make pedmonie stand out?
-
-3.	Additional Insights: Include any other relevant findings that may contribute to product strategy, market positioning, or feature development.
+3.Additional Insights: Include any other relevant findings that may contribute to product strategy, market positioning, or feature development.
 
 
 ## PRODUCT OVERVIEW 
