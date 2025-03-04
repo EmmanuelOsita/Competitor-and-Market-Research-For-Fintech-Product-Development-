@@ -1,6 +1,12 @@
 ![img_8539-1](https://github.com/user-attachments/assets/0543dc1b-6d79-4276-81f9-23c9f23667a7)
 # COMPETITOR AND MARKET RESEARCH FOR FINTECH PRODUCT DEVELOPMENT-(PEDMONIE)
 
+## 📂 Files in This Repository
+- **dataset_for_pedmonie research analysis.xlsx** → The dataset used for analysis.
+- **Survey Responses from SMES.xlsx** 
+- **README.md** → Explanation of the project.
+
+
 ## INTRODUCTION 
 
 This report outlines the process and insights derived from Competitor and Market Research for Fintech Product Development. The purpose of the project is to assist a fintench startup, Pedmonie to develop a new solution aimed at simplifying digital payment acceptance. 
